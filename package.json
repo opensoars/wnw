@@ -1,0 +1,25 @@
+{
+  "name": "wnw",
+  "version": "0.0.1",
+
+  "description": "Watch Node-Webkit projects for automatic restarts.",
+
+  "scripts": {
+  },
+
+  "dependencies": {
+    "node-watch": "0.3.4",
+    "ezlog": "*",
+    "opensoars_cls": "*"
+  },
+
+  "devDependencies": {
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensoars/wnw"
+  },
+
+  "readmeFilename": "readme.md"
+}
