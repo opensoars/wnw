@@ -1,6 +1,11 @@
 wnw
 ===
 
+[![Build Status](https://img.shields.io/travis/opensoars/wnw.svg?style=flat)](https://travis-ci.org/opensoars/wnw)
+
+Watches Node-Webkit projects for you.
+---
+
 ## What is Watch Node-Webkit (wnw)?
 It's a simple application that will watch a Node-Webkit project folder and automaticly refreshes the whole Node-Webkit instance. It will shut down the current Node-Webkit and start a new one. This will ensure everything is restarted. An example is reading the `package.json` file.
 
