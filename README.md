@@ -4,6 +4,7 @@ wnw
 [![Build Status](https://img.shields.io/travis/opensoars/wnw.svg?style=flat)](https://travis-ci.org/opensoars/wnw)
 
 Watches Node-Webkit projects for you.
+
 ---
 
 ## What is Watch Node-Webkit (wnw)?
