@@ -2,7 +2,7 @@
   "name": "wnw",
   "version": "0.0.1",
 
-  "description": "Watch Node-Webkit projects for automatic restarts.",
+  "description": "Watches Node-Webkit projects for automatic restarts.",
 
   "scripts": {
     "test": ""

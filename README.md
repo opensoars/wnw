@@ -3,7 +3,7 @@ wnw
 
 [![Build Status](https://img.shields.io/travis/opensoars/wnw.svg?style=flat)](https://travis-ci.org/opensoars/wnw)
 
-Watch Node-Webkit projects for automatic restarts
+Watches Node-Webkit projects for automatic restarts
 
 ---
 
