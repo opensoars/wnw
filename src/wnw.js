@@ -35,7 +35,7 @@ try {
 
     nw.kill();
 
-    log('Restrat due to change in ' + green(fn));
+    log('Restart due to change in ' + green(fn));
 
     nw = spawn('nw', [watchDir]);
 

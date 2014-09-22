@@ -29,5 +29,4 @@ Go to your project directory in your terminal and type `wnw`. This should launch
 ## Todo
 * Write tests
 * Reach 100% coverage
-* Make travis build this project
 * Better Linux support
